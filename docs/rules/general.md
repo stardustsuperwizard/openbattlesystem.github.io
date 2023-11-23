@@ -10,6 +10,7 @@ When two players disagree about a rule, have a roll off where one play picks the
 
 ## Recommended Dice
 The following dice are recommended for a standard game. They can be substituted to allow for a more varied game.
+
 |Mechanic|Dice Choice|
 |---|---|
 |Action Points|D20|
