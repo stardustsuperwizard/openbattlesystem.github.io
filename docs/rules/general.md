@@ -1,7 +1,7 @@
 ---
 layout: default
 title: General Rules
-parent: rules
+parent: Rules
 ---
 # Rules
 ## Roll Offs
