@@ -21,6 +21,11 @@
       <div id="header">
         <nav>
           <ul>
+            {% for item in site.data.navigation %}
+    <li><a href="{{ item.link }}"></li>
+      {{ item.name }}
+    </a>
+  {% endfor %}
           </ul>
         </nav>
       </div><!-- end header -->
