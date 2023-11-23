@@ -1,5 +1,7 @@
 ---
 layout: default
+title: About
+nav_order: 10
 ---
 # About
 Open Battle System was created as an attempt to create a free ruleset for tabletop wargaming.
