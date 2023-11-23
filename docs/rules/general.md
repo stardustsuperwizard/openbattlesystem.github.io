@@ -1,7 +1,7 @@
 ---
 layout: default
 title: General Rules
-permalink: rules/introduction
+parent: rules
 nav_order: 1
 ---
 # Rules
