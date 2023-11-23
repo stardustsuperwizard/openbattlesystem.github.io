@@ -1,4 +1,5 @@
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
 # remote_theme: riggraz/no-style-please 
+remote_theme: broccolini/swiss
 title: Open Battle System homepage
 description: Bookmark this to keep an eye on my project updates!
