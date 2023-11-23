@@ -1,6 +1,5 @@
 ---
-layout: page
-github_repo: openbattlesystem.github.io
+layout: default
 ---
 # About
 Open Battle System was created as an attempt to create a free ruleset for tabletop wargaming.
