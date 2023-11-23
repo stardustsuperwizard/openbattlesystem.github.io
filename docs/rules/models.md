@@ -2,7 +2,7 @@
 layout: default
 title: Models
 parent: Rules
-nav_order: 2
+nav_order: 3
 ---
 # Models and Units
 
