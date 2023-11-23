@@ -2,7 +2,7 @@
 # remote_theme: riggraz/no-style-please 
 remote_theme: broccolini/swiss
 theme_color: black
-baseurl: https://openbattlesystem.com
+baseurl: https://www.openbattlesystem.com
 title: Open Battle System
 description: Bookmark this to keep an eye on my project updates!
 github_username: openbattlesystem
