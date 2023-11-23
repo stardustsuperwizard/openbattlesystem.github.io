@@ -2,7 +2,6 @@
 layout: default
 title: General Rules
 parent: rules
-nav_order: 1
 ---
 # Rules
 ## Roll Offs
