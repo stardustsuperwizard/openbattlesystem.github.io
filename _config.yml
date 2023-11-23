@@ -10,3 +10,13 @@ description: Bookmark this to keep an eye on my project updates!
 github_username: openbattlesystem
 github_repo: openbattlesystem.github.io 
 timezone: America/New_York
+
+collections:
+  rules:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    rules:
+      name: Rules
