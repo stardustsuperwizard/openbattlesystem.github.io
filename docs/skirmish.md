@@ -171,6 +171,9 @@ For each big model roll follow the same rolling as with small models, however if
 * 4: explodes and everything within 3 inches must take a casualty test regardless of if they are down or not.
 
 ### Example Models
+* Ganger: Knife, pistol
+* Police Officer: Flak Jacket, pistol
+* Space Soldier: Full Body Carapace, laser rifle, ranged training (1)
 
 ## FAQ
 1. *Are there point values?*
