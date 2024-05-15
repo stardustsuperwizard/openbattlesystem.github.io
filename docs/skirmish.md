@@ -8,8 +8,10 @@ has_children: false
 
 Open Battle System Skirmish © 2024 by Michael Miller is licensed under Creative Commons Attribution 4.0 International 
 
-## Introduction
+## Introduction and Playing
 These skirmish rules are for playing a narrative skrimish game set in any time period or setting. Models do not use a hit points based system. A game is played in 1 or more rounds, with players taking turns generating action points and performing actions with those points. Each round ends with a recovery phase where players check downed models for removal.
+
+Each game is divided up into predetermined number of rounds with each player taking turns in each round. At the start of each round the players will roll for the initiative order that will last for the round. All players roll a d20 and determine playing order starting with highest roll in descending order. Players will then take alternating turns until the round ends. A round ends when a player rolls a 1 on for their Action Points roll, at which point there is a recovery phase where downed models will either return to play or be removed from the game as a casualty.
 
 ## Setup and Materials
 The requirements for a skirmish game are fairly low, players should have a small collection of models that they wish to use, a playing surface, some terrain, dice, and any tokens/markers that they wish to use to help with record keeping. Having a small pad of paper and pencils is usually a good idea for record keeping.
@@ -35,10 +37,10 @@ While there are no hit points to keep track of with this miniatures game, there 
 ## Models
 Models are broken into 2 broad (very broad) categories, "Small Models" and "Big Models" that have different stats and rules. "Small Models" going to humanoid sized (even if they are not human) and include creatures such as animals (like dogs and cats). "Big Models" are anything like vehicles, large animals/creatures/monsters (like an elephant...or a dinosaur). Depending on how dynamic you want your play area, terrain features could also be vehicles.
 
-### Small Models
+### Infantry or Small Models
 There are no hit points. Period. Forget about them. When a small model is "wounded" they are turned on their side and in the recovery phase it will determined if they are removed from play.
 
-### Big Models
+### Vehicles or Big Models
 Big models also do not have hit points, however they have armor values that help prevent them from being destroyed. Armor values are applied in the following way:
 * Front
 * Side
@@ -47,47 +49,8 @@ Big models also do not have hit points, however they have armor values that help
 If a big model has an armor value of 0 to 1, the big model may only be damaged at melee range. An armor value of 2+ can only be damaged by attacks with an Armor Penetration value. Big models can explode in the recovery phase.
 
 ### Movement
-* Small Models can move 6 inches.
-* Big Models can move 12 inches.
-
-### Model Traits
-* **Fast:** Model moves +3 inches
-* **Tough (x):** Model adds (x) to defend rolls and melee attack rolls.
-* **Ranged Trained (x):** Model adds (x) to ranged attack rolls.
-* **Martial Training (x):** Model adds (x) to melee attack rolls.
-
-## Armory
-
-### Ranged Combat
-
-*Basic Weapons*
-* **Pistol:** range 6 inches, 1 shot
-* **Rifle:** range 18 inches, 1 shot
-* **Sub-Machine Gun:** range 18 inches, 1 shot -OR- range 6 inches, 2 shots
-* **Light Machine Gun:** range 24 inches, 2 shots
-
-*Advanced Weapons*
-* **Laser Pistol:** Infinite range, 1 shot
-* **Laser Rifle:** Infinite range, 2 shots, 1 AP
-* **Plasma Pistol:** range 6 inches, 1 shot, 2 AP
-* **Plasma Rifle:** range 18 inches, 1 shot, 2 AP
-
-*Anti-Vehicle*
-* **Rocket Launcher:** Range 24 inches, 1 shot, 8 AP
-
-### Melee Combat
-* **Knife:** +1 to melee attack roll
-* **Sword:** +2 to melee attack roll
-* **Spear:** range 1 inch, 1 shot, +1 to melee attack roll
-* **Rending Claws:** +2 to melee attack roll, defending model that loses combat roll is removed from game.
-
-### Armor and Equipment
-* **Flak Jacket:** +1 to defense roll
-* **Full Body Carapace Armor:** +2 to defense roll
-* **Powered Armor:** Armor Values of 1/1/1
-
-## Playing the Game
-Each game is divided up into predetermined number of rounds with each player taking turns in each round. At the start of each round the players will roll for the initiative order that will last for the round. All players roll a d20 and determine playing order starting with highest roll in descending order. Players will then take turns alternating back and forth between players. A round ends when a player rolls a 1 on for their Action Points roll, at which point there is a recovery phase where downed models will either return to play or be removed from the game as a casualty.
+* Infantry can move 6 inches.
+* Vehicles can move 12 inches.
 
 ## Player Turns and Sequence
 Each player alternates taking turns starting with rolling for action points. A player's turn ends when they are spent all of their action points, then the next player takes their turn. Roll 1d20 to generate action points to be spent on your turn. Actions points can be used to move models around, initiate combat, perform narratice actions, or be exchanged for bonus dice. After action points are generated, each player will then have three phases to their turn:
@@ -166,6 +129,46 @@ For each big model roll follow the same rolling as with small models, however if
 * Ganger: Knife, pistol
 * Police Officer: Flak Jacket, pistol
 * Space Soldier: Full Body Carapace, laser rifle, ranged training (1)
+
+## Model Traits
+* **Fast:** Model moves +3 inches
+* **Tough (x):** Model adds (x) to defend rolls and melee attack rolls.
+* **Ranged Trained (x):** Model adds (x) to ranged attack rolls.
+* **Martial Training (x):** Model adds (x) to melee attack rolls.
+
+## Armory
+
+### Ranged Combat
+
+*Basic Weapons*
+* **Pistol:** range 6 inches, 1 shot
+* **Rifle:** range 18 inches, 1 shot
+* **Sub-Machine Gun:** range 18 inches, 1 shot -OR- range 6 inches, 2 shots
+* **Light Machine Gun:** range 24 inches, 2 shots
+
+*Advanced Weapons*
+* **Laser Pistol:** Infinite range, 1 shot
+* **Laser Rifle:** Infinite range, 2 shots, 1 AP
+* **Plasma Pistol:** range 6 inches, 1 shot, 2 AP
+* **Plasma Rifle:** range 18 inches, 1 shot, 2 AP
+
+*Anti-Vehicle*
+* **Rocket Launcher:** Range 24 inches, 1 shot, 8 AP
+
+### Melee Combat
+* **Knife:** +1 to melee attack roll
+* **Sword:** +2 to melee attack roll
+* **Spear:** range 1 inch, 1 shot, +1 to melee attack roll
+* **Rending Claws:** +2 to melee attack roll, defending model that loses combat roll is removed from game.
+
+### Armor
+* **Flak Jacket:** +1 to defense roll
+* **Full Body Carapace Armor:** +2 to defense roll
+* **Powered Armor:** Armor Values of 1/1/1
+
+### Equipment
+* **First Aid Kit:** Can be used on a infantry/small models. Add +1 to recovery roll. Can be used bt another model provided both models are in base to base contact.
+* **Toolbox:** Can be used on vehicles/big models. Add +1 to recovery roll. Can be used by another model provided both models are in base to base contact or touching.
 
 ## FAQ
 1. *Are there point values?*
