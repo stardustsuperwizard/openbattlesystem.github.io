@@ -87,28 +87,18 @@ If a big model has an armor value of 0 to 1, the big model may only be damaged a
 * **Martial Training (x):** Model adds (x) to melee attack rolls.
 
 ## Playing the Game
-Each game is divided up into predetermined number of rounds with each player taking turns in each round. A round ends when a player rolls a 1 on for their Action Points roll at which point there is a recovery phase where downed models will either return to play or be removed from the game as a casualty.
+Each game is divided up into predetermined number of rounds with each player taking turns in each round. At the start of each round the players will roll for the initiative order that will last for the round. All players roll a d20 and determine playing order starting with highest roll in descending order. Players will then take turns alternating back and forth between players. A round ends when a player rolls a 1 on for their Action Points roll, at which point there is a recovery phase where downed models will either return to play or be removed from the game as a casualty.
 
-### Round
-At the start of each round the players will roll for the initiative order that will last for the round. All players roll a d20 and determine playing order starting with highest roll in descending order.
+## Player Turns and Sequence
+Each player alternates taking turns starting with rolling for action points. A player's turn ends when they are spent all of their action points, then the next player takes their turn. Roll 1d20 to generate action points to be spent on your turn. Actions points can be used to move models around, initiate combat, perform narratice actions, or be exchanged for bonus dice. After action points are generated, each player will then have three phases to their turn:
 
-### Player Turns and Sequence
-Each player alternates taking turns starting with rolling for action points. A player's turn ends when they are spent all of their action points, then the next player takes their turn. Alternate between players until a player rolls a 1 for Action Points, which ends the round and begins recovery.
-
-The player turn has the following phases in order:
-1. Roll for Action Points aka "Command Phase"
-2. Purchase Bonus Dice
-3. Activate models with Action Points aka "Action Phase"
-4. Purchase Bonus Dice
+1. Purchase Bonus Dice
+2. Activate models with Action Points aka "Action Phase"
+3. Purchase Bonus Dice
 
 Action points may be traded for bonus dice BEFORE models are activated and/or AFTER models are finished being activated. You can not purchase bonus dice during the "action phase".
 
-#### Roll for Action Points aka "Command Phase"
-Roll 1d20 to generate action points to be spent on your turn. Actions points can be used to move models around, initiate combat, perform narratice actions, or be exchanged for bonus dice.
-
-Action points do not carry from turn-to-turn or round-to-round.
-
-#### Activate models with Action Points aka "Action Phase"
+### Activate models with Action Points aka "Action Phase"
 Models can perform the following actions:
 * Movement
 * Combat
@@ -128,7 +118,7 @@ Depending on equipment that models have or scenario rules there may be narrative
 * Searching for hidden objects/passages/rooms.
 * Picking up objects.
 
-#### Spend Action Points on Bonus Dice
+### Spend Action Points on Bonus Dice
 **Bonus dice** are special d6's that are purchased with Action Points at a cost of 1 AP per Bonus Dice. Bonus dice can be added to other rolls or to movement. Bonus dice do carry from turn-to-turn but not round-to-round. Each player can have no more than 6 Bonus Dice at time. 
 
 Action points can be spent on purchasing bonus dice to be used in the current game round, including in the turn in which they were purchased.
@@ -142,26 +132,26 @@ Action points can be spent on purchasing bonus dice to be used in the current ga
 |     5      | 12 Action Points  |
 |     6      | 20 Action Points  |
 
-### Combat
+## Combat
 
-#### Ranged
+### Ranged
 Ranged combat is very simple, the attacker uses a ranged item to attempt to knock the defender into the "downed state" using a random dice roll. Both players roll their dice with the higher player winning.
 1. Select target within range of weapon profile.
 2. Attacker will roll to attack with a d10, plus any bonus dice and/or modifiers.
 3. Defender will roll to defend with a d10, plus any bonus dice and/or modifiers.
 4. If attacker beats defender, the defending model is turned on it's side and is considered down. The model is not necessarily removed from the game. During the recovery phase the model can attempt to return to the game.
 
-#### Melee
+### Melee
 Melee combat is far more dangerous for both attacker and defender, with each model attempting to best the other model. The loser of a melee combat is put into a "downed state" and the winner may move up to 3 inches.
 1. Select target within range of weapon profile.
 2. Attacker will roll to attack with a d10, plus any bonus dice and/or modifiers.
 3. Defender will roll to defend with a d10, plus any bonus dice and/or modifiers.
 4. Losing model is turned on it's side and is in a "downed state" until the recovery phase.
 
-#### Cover
+### Cover
 Models behind terrain features can reasonably claim a benefit for defense therefore, add +1 to any defense roll.
 
-### Recovery Phase
+## Recovery Phase
 After a game round has ended, there is a recovery phase before the next round begins. For each down model that the player has they must roll a casuality test. Bonus dice accumulated from the round may be used in this phase, but are discarded before the start of the new round.
 
 **Casualty Test**
@@ -172,7 +162,7 @@ For each big model roll follow the same rolling as with small models, however if
 * 2/3: remove from play
 * 4: immobilized, cannot move but can make ranged attacks
 
-### Example Models
+## Example Models
 * Ganger: Knife, pistol
 * Police Officer: Flak Jacket, pistol
 * Space Soldier: Full Body Carapace, laser rifle, ranged training (1)
