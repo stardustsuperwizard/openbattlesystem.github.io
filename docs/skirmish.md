@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Skirmish
+title: Skirmish Rules
 nav_order: 1
 has_children: false
 ---
 # Skirmish
-
 ## Introduction
-
+These skirmish rules are for playing a narrative skrimish game set in any time period or setting. Models do not use a hit points based system.
 ## Setup and Materials
 ### Playing Space and Terrain
 ### Dice
