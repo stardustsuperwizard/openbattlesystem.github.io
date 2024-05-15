@@ -89,11 +89,11 @@ Action points can be spent on purchasing bonus dice to be used in the current ga
 | Bonus Dice | Action Point Cost |
 | ---------- | ----------------- |
 |     1      | 1 Action Point    |
-|     2      | 2 Action Points   |
-|	    3      | 4 Action Points   |
-|     4      | 7 Action Points   |
-|     5      | 12 Action Points  |
-|     6      | 20 Action Points  |
+|     2      | 1 Action Point    |
+|	    3      | 2 Action Points   |
+|     4      | 3 Action Points   |
+|     5      | 5 Action Points  |
+|     6      | 8 Action Points  |
 
 ## Combat
 
