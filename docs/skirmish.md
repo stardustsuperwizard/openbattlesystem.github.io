@@ -111,12 +111,14 @@ Action points can be spent on purchasing bonus dice to be used in the current ga
 |     6      | 20 Action Points  |
 
 ### Combat
+
 #### Ranged
 Ranged combat is very simple, the attacker uses a ranged item to attempt to knock the defender into the "downed state" using a random dice roll. Both players roll their dice with the higher player winning.
 1. Select target within range of weapon profile.
 2. Attacker will roll to attack with a d10, plus any bonus dice and/or modifiers.
 3. Defender will roll to defend with a d10, plus any bonus dice and/or modifiers.
 4. If attacker beats defender, the defending model is turned on it's side and is considered down. The model is not necessarily removed from the game. During the recovery phase the model can attempt to return to the game.
+
 #### Melee
 Melee combat is far more dangerous for both attacker and defender, with each model attempting to best the other model. The loser of a melee combat is put into a "downed state" and the winner may move up to 3 inches.
 1. Select target within range of weapon profile.
