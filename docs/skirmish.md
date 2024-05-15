@@ -125,6 +125,7 @@ Melee combat is far more dangerous for both attacker and defender, with each mod
 2. Attacker will roll to attack with a d10, plus any bonus dice and/or modifiers.
 3. Defender will roll to defend with a d10, plus any bonus dice and/or modifiers.
 4. Losing model is turned on it's side and is in a "downed state" until the recovery phase.
+
 #### Cover
 Models behind terrain features can reasonably claim a benefit for defense therefore, add +1 to any defense roll.
 
