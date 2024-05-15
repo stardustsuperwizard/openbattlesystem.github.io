@@ -166,9 +166,9 @@ After a game round has ended, there is a recovery phase before the next round be
 For each down small model roll a d10, on a 6+ the model recovers and put back into a ready state, otherwise remove the model from play.
 
 For each big model roll follow the same rolling as with small models, however if the result is 1-5, roll a seperate d4 and compare to the result below.
-* 1 or 2: remove from play
-* 3: immobilized, cannot move but can make ranged attacks
-* 4: explodes and everything within 3 inches must take a casualty test regardless of if they are down or not.
+* 1: explodes and everything within 3 inches must take a casualty test regardless of if they are down or not.
+* 2/3: remove from play
+* 4: immobilized, cannot move but can make ranged attacks
 
 ### Example Models
 * Ganger: Knife, pistol
