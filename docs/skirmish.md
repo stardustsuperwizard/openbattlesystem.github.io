@@ -42,7 +42,6 @@ Big models can explode in the recovery phase.
 * Small Models can move 6 inches.
 * Big Models can move 12 inches.
 ### Armory
-#### Ranged Combat Weapons
 *Basic Weapons*
 * **Pistol:** range 6 inches, 1 shot
 * **Rifle:** range 18 inches, 1 shot
