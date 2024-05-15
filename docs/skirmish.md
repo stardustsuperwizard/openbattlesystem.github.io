@@ -5,11 +5,15 @@ nav_order: 1
 has_children: false
 ---
 # Skirmish
+
 ## Introduction
 These skirmish rules are for playing a narrative skrimish game set in any time period or setting. Models do not use a hit points based system.
+
 ## Setup and Materials
+
 ### Playing Space and Terrain
 There is no set playing surface dimensions, a good general rule is that surface should between a 3 and 4 feet by 3 and 4 feet. Terrain can be setup in accordance with mission scenarios, whether that be balanced for competitive play or asymmetrical narrative play.
+
 ### Dice
 You should have at least 1 of each of the following dice:
 * d20
@@ -18,9 +22,12 @@ You should have at least 1 of each of the following dice:
 * d4
 
 A standard RPG dice set and some additonal d6s is recommended. Having at least 2d10 is recommended and handful of d6 as these are used as bonus dice.
+
 ### Models
 Any standard game models are suitable, the most common skirmish model size is going to be 28mm. Mix and match, make your own. All players should generally have similar sized miniatures (unless of course there is a narrative reason for the size difference).
+
 ### Tokens
+
 ### Misc
 
 ## Models
@@ -38,10 +45,13 @@ Big models also do not have hit points, however they have armor values that help
 If a big model has an armor value of 0 to 1, the big model may only be damaged at melee range. An armor value of 2+ can only be damaged by attacks with an Armor Penetration value.
 
 Big models can explode in the recovery phase.
+
 ### Movement
 * Small Models can move 6 inches.
 * Big Models can move 12 inches.
+
 ### Armory
+
 #### Basic Weapons
 * **Pistol:** range 6 inches, 1 shot
 * **Rifle:** range 18 inches, 1 shot
@@ -56,6 +66,7 @@ Big models can explode in the recovery phase.
 
 #### Anti-Vehicle
 * **Rocket Launcher:** Range 24 inches, 1 shot, 8 AP
+
 ### Traits
 * **Fast:** Model moves +3 inches
 * **Tough (x):** Model adds (x) to defend rolls and melee attack rolls.
@@ -105,7 +116,7 @@ Action points can be spent on purchasing bonus dice to be used in the current ga
 | ---------- | ----------------- |
 |     1      | 1 Action Point    |
 |     2      | 2 Action Points   |
-|	  3      | 4 Action Points   |
+|	    3      | 4 Action Points   |
 |     4      | 7 Action Points   |
 |     5      | 12 Action Points  |
 |     6      | 20 Action Points  |
