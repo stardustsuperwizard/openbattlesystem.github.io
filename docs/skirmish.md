@@ -161,7 +161,7 @@ For each big model roll follow the same rolling as with small models, however if
 * **Spear:** range 1 inch, 1 shot, +1 to melee attack roll
 * **Rending Claws:** +2 to melee attack roll, defending model that loses combat roll is removed from game.
 
-### Armor
+### Body Armor
 * **Flak Jacket:** +1 to defense roll
 * **Full Body Carapace Armor:** +2 to defense roll
 * **Powered Armor:** Armor Values of 1/1/1
