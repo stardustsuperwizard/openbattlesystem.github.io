@@ -42,19 +42,19 @@ Big models can explode in the recovery phase.
 * Small Models can move 6 inches.
 * Big Models can move 12 inches.
 ### Armory
-*Basic Weapons*
+#### Basic Weapons
 * **Pistol:** range 6 inches, 1 shot
 * **Rifle:** range 18 inches, 1 shot
 * **Sub-Machine Gun:** range 18 inches, 1 shot -OR- range 6 inches, 2 shots
 * **Light Machine Gun:** range 24 inches, 2 shots
 
-*Advanced Weapons*
+#### Advanced Weapons
 * **Laser Pistol:** Infinite range, 1 shot
 * **Laser Rifle:** Infinite range, 2 shots, 1 AP
 * **Plasma Pistol:** range 6 inches, 1 shot, 2 AP
 * **Plasma Rifle:** range 18 inches, 1 shot, 2 AP
 
-*Anti-Vehicle*
+#### Anti-Vehicle
 * **Rocket Launcher:** Range 24 inches, 1 shot, 8 AP
 ### Traits
 * **Fast:** Model moves +3 inches
@@ -132,3 +132,5 @@ After a game round has ended, there is a recovery phase before the next round be
 ### Example Models
 
 ## FAQ
+1. *Are there point values?*
+Yes and no. This is a basic guide for playing narrative skirmish games. A points guid will be published, but should be used for informational purposes.
