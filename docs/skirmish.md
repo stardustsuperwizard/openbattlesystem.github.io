@@ -50,9 +50,15 @@ If a big model has an armor value of 0 to 1, the big model may only be damaged a
 * Small Models can move 6 inches.
 * Big Models can move 12 inches.
 
-### Armory
+### Model Traits
+* **Fast:** Model moves +3 inches
+* **Tough (x):** Model adds (x) to defend rolls and melee attack rolls.
+* **Ranged Trained (x):** Model adds (x) to ranged attack rolls.
+* **Martial Training (x):** Model adds (x) to melee attack rolls.
 
-#### Ranged Combat
+## Armory
+
+### Ranged Combat
 
 *Basic Weapons*
 * **Pistol:** range 6 inches, 1 shot
@@ -69,22 +75,16 @@ If a big model has an armor value of 0 to 1, the big model may only be damaged a
 *Anti-Vehicle*
 * **Rocket Launcher:** Range 24 inches, 1 shot, 8 AP
 
-#### Melee Combat
+### Melee Combat
 * **Knife:** +1 to melee attack roll
 * **Sword:** +2 to melee attack roll
 * **Spear:** range 1 inch, 1 shot, +1 to melee attack roll
 * **Rending Claws:** +2 to melee attack roll, defending model that loses combat roll is removed from game.
 
-#### Armor and Equipment
+### Armor and Equipment
 * **Flak Jacket:** +1 to defense roll
 * **Full Body Carapace Armor:** +2 to defense roll
 * **Powered Armor:** Armor Values of 1/1/1
-
-### Traits
-* **Fast:** Model moves +3 inches
-* **Tough (x):** Model adds (x) to defend rolls and melee attack rolls.
-* **Ranged Trained (x):** Model adds (x) to ranged attack rolls.
-* **Martial Training (x):** Model adds (x) to melee attack rolls.
 
 ## Playing the Game
 Each game is divided up into predetermined number of rounds with each player taking turns in each round. At the start of each round the players will roll for the initiative order that will last for the round. All players roll a d20 and determine playing order starting with highest roll in descending order. Players will then take turns alternating back and forth between players. A round ends when a player rolls a 1 on for their Action Points roll, at which point there is a recovery phase where downed models will either return to play or be removed from the game as a casualty.
@@ -119,7 +119,7 @@ Depending on equipment that models have or scenario rules there may be narrative
 * Picking up objects.
 
 ### Spend Action Points on Bonus Dice
-**Bonus dice** are special d6's that are purchased with Action Points at a cost of 1 AP per Bonus Dice. Bonus dice can be added to other rolls or to movement. Bonus dice do carry from turn-to-turn but not round-to-round. Each player can have no more than 6 Bonus Dice at time. 
+**Bonus dice** are special d6's that are purchased with Action Points. Bonus dice can be added to other rolls or to movement. Bonus dice do carry from turn-to-turn but do not carry from round-to-round. Each player can have no more than 6 Bonus Dice at time. 
 
 Action points can be spent on purchasing bonus dice to be used in the current game round, including in the turn in which they were purchased.
 
