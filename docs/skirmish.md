@@ -9,6 +9,7 @@ has_children: false
 These skirmish rules are for playing a narrative skrimish game set in any time period or setting. Models do not use a hit points based system.
 ## Setup and Materials
 ### Playing Space and Terrain
+There is no set playing surface dimensions, a good general rule is that surface should between a 3 and 4 feet by 3 and 4 feet. Terrain can be setup in accordance with mission scenarios, whether that be balanced for competitive play or asymmetrical narrative play.
 ### Dice
 You should have at least 1 of each of the following dice:
 * d20
@@ -41,7 +42,25 @@ Big models can explode in the recovery phase.
 * Small Models can move 6 inches.
 * Big Models can move 12 inches.
 ### Armory
+#### Ranged Combat Weapons
+*Basic Weapons*
+* **Pistol:** range 6 inches, 1 shot
+* **Rifle:** range 18 inches, 1 shot
+* **Sub-Machine Gun:** range 18 inches, 1 shot -OR- range 6 inches, 2 shots
+* **Light Machine Gun:** range 24 inches, 2 shots
+
+*Advanced Weapons*
+* **Laser Pistol:** Infinite range, 1 shot
+* **Laser Rifle:** Infinite range, 2 shots, 1 AP
+* **Plasma Pistol:** range 6 inches, 1 shot, 2 AP
+* **Plasma Rifle:** range 18 inches, 1 shot, 2 AP
+
+*Anti-Vehicle*
+* **Rocket Launcher:** Range 24 inches, 1 shot, 8 AP
 ### Traits
+* **Fast:** Model moves +3 inches
+* **Tough (x):** Model adds (x) to defend rolls and melee attack rolls.
+* **Sharp Eye (x):** Model adds (x) to ranged attack rolls.
 
 ## Playing the Game
 Each game is divided up into predetermined number of rounds with each player taking turns in each round. A round ends when a player rolls a 1 on for their Action Points roll at which point there is a recovery phase where downed models will either return to play or be removed from the game as a casualty.
