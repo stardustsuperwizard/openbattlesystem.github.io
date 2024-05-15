@@ -4,7 +4,9 @@ title: Skirmish Rules
 nav_order: 1
 has_children: false
 ---
-# Skirmish
+# Open Battle System Skirmish
+
+Open Battle System Skirmish © 2024 by Michael Miller is licensed under Creative Commons Attribution 4.0 International 
 
 ## Introduction
 These skirmish rules are for playing a narrative skrimish game set in any time period or setting. Models do not use a hit points based system. A game is played in 1 or more rounds, with players taking turns generating action points and performing actions with those points. Each round ends with a recovery phase where players check downed models for removal.
