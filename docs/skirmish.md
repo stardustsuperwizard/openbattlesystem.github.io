@@ -129,6 +129,7 @@ For each big model roll follow the same rolling as with small models, however if
 * Ganger: Knife, pistol
 * Police Officer: Flak Jacket, pistol
 * Space Soldier: Full Body Carapace, laser rifle, ranged training (1)
+* Alien Monster: Rending Claws, Fast
 
 ## Model Traits
 * **Fast:** Model moves +3 inches
