@@ -31,3 +31,4 @@ Additionally, any listing or reference to any third-party vendor site does not n
 * [Corvus Games Terrain](https://corvusgamesterrain.com/)
 * [Death Ray Designs](https://deathraydesigns.com/)
 * [Gamemat.eu](https://www.gamemat.eu/)
+* [Titans Terrain](https://www.titansterrain.com/)
