@@ -4,7 +4,8 @@ title: About
 nav_order: 10
 ---
 # About
-Open Battle System was created as an attempt to create a free ruleset for tabletop wargaming.
+
+Open Battle System™️  is an attempt to build out rules for various forms of table top war gaming. The idea is to release all rules sets under creative commons licensing.
 
 ## Third Party Licenses
 ### [jekyll/jekyll](https://github.com/jekyll/jekyll)
