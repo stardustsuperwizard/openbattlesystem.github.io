@@ -9,6 +9,7 @@ There are many options for miniatures to use with our game system made by many d
 Additionally, any listing or reference to any third-party vendor site does not necessarily consitute an endorsement or relationship between Open Battle System™️ and third-party vendor. 
 ## Miniatures
 * [BLKOUT](https://www.blkoutgame.com/)
+* [Corvus Belli](https://corvusbelli.com/en/)
 * [Dark Sword Miniatures](https://www.darkswordminiatures.com/)
 * [First Legion ltd.](https://www.firstlegionltd.com/28mmfantasy.aspx)
 * [Games-Workshop](https://warhammer.com)
