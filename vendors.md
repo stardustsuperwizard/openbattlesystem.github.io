@@ -7,7 +7,7 @@ nav_order: 9
 There are many options for miniatures to use with our game system made by many different vendors of all sizes. Please note that refence to any specific commericial Product, process, or Service by trade name, trademark, manufacture, or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favor of Open Battle System.
 
 Additionally, any listing or reference to any third-party vendor site does not necessarily consitute an endorsement or relationship between Open Battle System™️ and third-party vendor. 
-## Minatures
+## Miniatures
 * [BLKOUT](https://www.blkoutgame.com/)
 * [Dark Sword Miniatures](https://www.darkswordminiatures.com/)
 * [First Legion ltd.](https://www.firstlegionltd.com/28mmfantasy.aspx)
