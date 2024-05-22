@@ -1,15 +1,26 @@
+############################################################
+# Themes:
+############################################################
 # theme: jekyll-theme-midnight
 # remote_theme: riggraz/no-style-please 
 
 # remote_theme: broccolini/swiss
 # theme_color: black
 
-remote_theme: just-the-docs/just-the-docs
+remote-theme: pages-themes/minimal@v0.2.0
+
+# remote_theme: just-the-docs/just-the-docs
+
+############################################################
+# General
+############################################################
 title: Open Battle System™️ 
 description: Bookmark this to keep an eye on my project updates!
 github_username: openbattlesystem
 github_repo: openbattlesystem.github.io 
 timezone: America/New_York
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # collections:
 #   rules:
