@@ -7,7 +7,7 @@
 # remote_theme: broccolini/swiss
 # theme_color: black
 
-remote-theme: pages-themes/minimal@v0.2.0
+remote-theme: ronv/sidey
 
 # remote_theme: just-the-docs/just-the-docs
 
